@@ -10,7 +10,6 @@ Este repositório reúne projetos de backend desenvolvidos em Java. O objetivo �
 ---
 
 ## 🛠 Tecnologias / Stack  
-- Java  
-- (adicione aqui outras tecnologias que usar: frameworks, banco de dados, bibliotecas, etc.)
-
+- Java
+- 
 ---
